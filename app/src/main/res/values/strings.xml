@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Confirmation</string>
+    <string name="order_confirmed">orderconfirmed</string>
+    <string name="your_order_is_confirmed">Your order is confirmed</string>
+    <string name="any_question_contact_us_at">Any question? Contact us at:</string>
+    <string name="contact">Contact :</string>
+    <string name="email">Email :</string>
+    <string name="office_hour">Office Hour :</string>
+    <string name="support_uhealth_com">support@uhealth.com</string>
+    <string name="phone">017-7156398</string>
+    <string name="open_day">Mon - Fri (9.00am - 5.00pm)</string>
+    <string name="confirm">Continue</string>
+</resources>
